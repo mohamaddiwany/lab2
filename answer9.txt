@@ -1,0 +1,5 @@
+* 2e4782d (HEAD -> greeting) 2nd version
+* 20518f9 1st version   
+
+I got that the first version haven't branch after that when I got branch called greeting 
+I found that Head is indicates to that branch I created
